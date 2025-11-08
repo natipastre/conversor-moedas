@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://natipastre.github.io/conversor-moedas/" target="_blank">
-    <img src="https://i.postimg.cc/L4NRZ6Pd/Chat-GPT-Image-8-de-nov-de-2025-11-28-16.png" alt="Prévia do projeto Conversor de Moedas" width="800px"/>
+    <img src="https://i.postimg.cc/L4NRZ6Pd/Chat-GPT-Image-8-de-nov-de-2025-11-28-16.png" alt="Prévia do projeto Conversor de Moedas" width="650px"/>
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 ## 🔎 Sobre o projeto  
 
 O **Conversor de Moedas** é um aplicativo web interativo desenvolvido com **React** e **Vite**, que permite converter valores entre diferentes moedas de forma **rápida, prática e intuitiva**.  
-Ideal para **viagens, compras internacionais ou estudos financeiros**, oferecendo uma experiência simples e eficiente.
+Ideal para **viagens, compras internacionais ou estudos financeiros**, oferecendo uma experiência simples, moderna e eficiente.
 
 ---
 
@@ -41,14 +41,6 @@ Ideal para **viagens, compras internacionais ou estudos financeiros**, oferecend
 
 ---
 
-## 📸 Preview do aplicativo  
-
-<p align="center">
-  <img src="https://i.postimg.cc/L4NRZ6Pd/Chat-GPT-Image-8-de-nov-de-2025-11-28-16.png" width="600px" alt="Preview do Conversor de Moedas"/>
-</p>
-
----
-
 ## 🚀 Como executar localmente  
 
 ```bash
@@ -57,6 +49,12 @@ git clone https://github.com/natipastre/conversor-moedas.git
 
 # Acesse a pasta do projeto
 cd conversor-moedas
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+npm run dev
 
 # Instale as dependências
 npm install
