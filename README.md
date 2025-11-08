@@ -41,27 +41,7 @@ Ideal para **viagens, compras internacionais ou estudos financeiros**, oferecend
 
 ---
 
-## 🚀 Como executar localmente  
 
-```bash
-# Clone o repositório
-git clone https://github.com/natipastre/conversor-moedas.git
-
-# Acesse a pasta do projeto
-cd conversor-moedas
-
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm run dev
-
-
-# Instale as dependências
-npm install
-
-# Execute o projeto
-npm run dev
 
 ## 👩🏻‍💻 Autora  
 
