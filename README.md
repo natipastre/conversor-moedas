@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://natipastre.github.io/conversor-moedas/" target="_blank">
-    <img src="https://i.postimg.cc/L4NRZ6Pd/Chat-GPT-Image-8-de-nov-de-2025-11-28-16.png" alt="Prévia do projeto Conversor de Moedas" width="650px"/>
+    <img src="https://i.postimg.cc/L4NRZ6Pd/Chat-GPT-Image-8-de-nov-de-2025-11-28-16.png" alt="Prévia do projeto Conversor de Moedas" width="480px"/>
   </a>
 </p>
 
@@ -55,6 +55,7 @@ npm install
 
 # Execute o projeto
 npm run dev
+
 
 # Instale as dependências
 npm install
